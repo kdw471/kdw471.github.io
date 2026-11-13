@@ -1,0 +1,9 @@
+{
+  "name": "MindFlow 마인드맵",
+  "short_name": "MindFlow",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#ffffff",
+  "icons": []
+}
